@@ -23,10 +23,6 @@
 
 &lt;h2 id=&#34;about-us:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;About Us&lt;/h2&gt;
 
-&lt;script type=&#34;text/javascript&#34;&gt;var switchTo5x=true;&lt;/script&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;http://w.sharethis.com/button/buttons.js&#34;&gt;&lt;/script&gt;
-&lt;script type=&#34;text/javascript&#34;&gt;stLight.options({publisher: &#34;6b72b039-733d-45ef-83ec-8666f13ea792&#34;, doNotHash: false, doNotCopy: false, hashAddressBar: false});&lt;/script&gt;
-
 &lt;p&gt;Big Ambitions is a nonprofit organisation dedicated to the sharing of knowledge and latest updates about Open source Cloud, SDN / NFV and Networking technologies on a common platform by organising free meetups.&lt;/p&gt;
 
 &lt;p&gt;Big Ambitions helps talented and passionate newcomers build their career in Open source, Linux, Cloud, SDN / NFV, Networking by providing comprehensive, practical and certified training at no cost to women and at an affordable fees to the students worldwide. The goal of the Big Ambitions Foundation is to bridge the gap between Open Source and Women, encouraging them to contribute upstream and be in link with the larger community.&lt;/p&gt;
@@ -111,16 +107,22 @@
 
 &lt;h2 id=&#34;share-this-page-via:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;Share this Page via:&lt;/h2&gt;
 
-&lt;p&gt;&lt;span class=&#39;st_twitter_large&#39; displayText=&#39;Tweet&#39;&gt;&lt;/span&gt;
-&lt;span class=&#39;st_facebook_large&#39; displayText=&#39;Facebook&#39;&gt;&lt;/span&gt;
-&lt;span class=&#39;st_linkedin_large&#39; displayText=&#39;LinkedIn&#39;&gt;&lt;/span&gt;
-&lt;span class=&#39;st_googleplus_large&#39; displayText=&#39;Google +&#39;&gt;&lt;/span&gt;
-&lt;span class=&#39;st_email_large&#39; displayText=&#39;Email&#39;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&#34;a2a_kit a2a_kit_size_32 a2a_default_style&#34;&gt;
+&lt;a class=&#34;a2a_button_twitter&#34;&gt;&lt;/a&gt;
+&lt;a class=&#34;a2a_button_facebook&#34;&gt;&lt;/a&gt;
+&lt;a class=&#34;a2a_button_linkedin&#34;&gt;&lt;/a&gt;
+&lt;a class=&#34;a2a_button_google_plus&#34;&gt;&lt;/a&gt;
+&lt;a class=&#34;a2a_button_email&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;//static.addtoany.com/menu/page.js&#34;&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/slim-081711.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
+&lt;br/&gt;
+
+
+&lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/slim-081711.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
 &lt;style type=&#34;text/css&#34;&gt;
     #mc_embed_signup{background:#1E90FF; clear:left; font:18px Helvetica,Arial,sans-serif;  width:700px;}
-&lt;/style&gt;&lt;/p&gt;
+&lt;/style&gt;
 
 &lt;div id=&#34;mc_embed_signup&#34;&gt;
 &lt;form action=&#34;//bigambitions.us12.list-manage.com/subscribe/post?u=efeb8b0f151453b6bb77cf67b&amp;amp;id=079580c475&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate&#34; target=&#34;_blank&#34; novalidate&gt;
