@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Ambitions Foundation</title>
-    <link>aseurl=www.bigambitions.org/</link>
+    <link>/</link>
     <description>Recent content on Big Ambitions Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="aseurl=www.bigambitions.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Us</title>
-      <link>/aseurl=www.bigambitions.org/bigambitions/about/</link>
+      <link>/bigambitions/about/</link>
       <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/bigambitions/about/</guid>
+      <guid>/bigambitions/about/</guid>
       <description>
 
 &lt;p&gt;Big Ambitions Foundation feature news, updates, research and anaylsis as well as provides a common platform to share knowledge and latest updates about Open source Cloud, SDN/NFV, Linux, Containers and Networking technologies. The members of the Foundation analyse and perform data research to help the enterprises, startups and the businesses worldwide choose the right stack of open source technologies.&lt;/p&gt;
 
 &lt;p&gt;Big Ambitions Foundation helps talented and passionate newcomers build their career in Open source, Linux, Cloud, SDN / NFV, Networking by providing comprehensive, practical and hands-on training to women and students at an affordable fees. The goal of the Big Ambitions Foundation is to bridge the gap between open source and women in technology.&lt;/p&gt;
 
-&lt;h2 id=&#34;our-vision-bigambitions-about:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/bigambitions/about&#34;&gt;Our Vision&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;our-vision-bigambitions-about:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a href=&#34;/bigambitions/about&#34;&gt;Our Vision&lt;/a&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Provide a common platform to share knowledge and updates on the open source technologies.&lt;/li&gt;
@@ -31,7 +31,7 @@
 &lt;li&gt;Help the enterprises, startups and the businesses worldwide choose the right stack of open source technologies.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;our-mission-bigambitions-about:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/bigambitions/about&#34;&gt;Our Mission&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;our-mission-bigambitions-about:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a href=&#34;/bigambitions/about&#34;&gt;Our Mission&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Our Mission:&lt;/p&gt;
 
@@ -56,19 +56,19 @@
     
     <item>
       <title>Focused Open Source Technologies</title>
-      <link>/aseurl=www.bigambitions.org/technology/</link>
+      <link>/technology/</link>
       <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/technology/</guid>
+      <guid>/technology/</guid>
       <description>
 
 &lt;p&gt;Big Ambitions Foundation is currently focusing on the Open source Cloud Computing, SDN / NFV, Linux, Containers and Networking technologies namely Linux systems (Ubuntu, RHEL, CentOS), OpenStack, OpenDaylight, Docker and Linux containers, Kubernetes, Apache Mesos, OpenShift, Vagrant, Puppet.&lt;/p&gt;
 
-&lt;h2 id=&#34;become-an-active-technical-contributor-atc-technology:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/technology&#34;&gt;Become an Active Technical Contributor (ATC)&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;become-an-active-technical-contributor-atc-technology:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;&lt;a href=&#34;/technology&#34;&gt;Become an Active Technical Contributor (ATC)&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Please see &lt;a href=&#34;https://github.com/bigambitions/technology-articles/blob/master/contributing.md&#34;&gt;CONTRIBUTING&lt;/a&gt; for details.&lt;/p&gt;
 
-&lt;h1 id=&#34;technology-articles-technology:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/technology&#34;&gt;Technology Articles&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;technology-articles-technology:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;&lt;a href=&#34;/technology&#34;&gt;Technology Articles&lt;/a&gt;&lt;/h1&gt;
 
 &lt;h2 id=&#34;linux-rhel-centos-fedora-ubuntu:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;Linux (RHEL, CentOS, Fedora, Ubuntu)&lt;/h2&gt;
 
@@ -105,10 +105,10 @@
     
     <item>
       <title>Research</title>
-      <link>/aseurl=www.bigambitions.org/research/</link>
+      <link>/research/</link>
       <pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/research/</guid>
+      <guid>/research/</guid>
       <description>
 
 &lt;p&gt;We would be publishing research and analysis articles on the focused open source technologies to help the enterprises, startups and the businesses worldwide choose the right stack of open source technologies.&lt;/p&gt;
@@ -137,10 +137,10 @@
     
     <item>
       <title>Advisory Board</title>
-      <link>/aseurl=www.bigambitions.org/bigambitions/board_of_advisors/</link>
+      <link>/bigambitions/board_of_advisors/</link>
       <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/bigambitions/board_of_advisors/</guid>
+      <guid>/bigambitions/board_of_advisors/</guid>
       <description>
 
 &lt;p&gt;Our Board of Advisors are the key decision makers of the Foundation. One member each from the founding members / sponsors are present in our Board of Advisors.&lt;/p&gt;
@@ -170,10 +170,10 @@
     
     <item>
       <title>Spotlight</title>
-      <link>/aseurl=www.bigambitions.org/spotlight/</link>
+      <link>/spotlight/</link>
       <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/spotlight/</guid>
+      <guid>/spotlight/</guid>
       <description>
 
 &lt;p&gt;Our Spotlight feature includes:&lt;/p&gt;
@@ -207,10 +207,10 @@
     
     <item>
       <title>Founding Members</title>
-      <link>/aseurl=www.bigambitions.org/bigambitions/sponsors/</link>
+      <link>/bigambitions/sponsors/</link>
       <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/bigambitions/sponsors/</guid>
+      <guid>/bigambitions/sponsors/</guid>
       <description>
 
 &lt;p&gt;Big Ambitions Foundation is currently looking for its Founding Members / Sponsors to help achieve its mission.&lt;/p&gt;
@@ -267,10 +267,10 @@
     
     <item>
       <title>Trainings</title>
-      <link>/aseurl=www.bigambitions.org/training/</link>
+      <link>/training/</link>
       <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/training/</guid>
+      <guid>/training/</guid>
       <description>
 
 &lt;p&gt;Big Ambitions Foundation offers training to Women, Students and IT Professionals at an affordable fees to help them build their career in Cloud Computing, SDN / NFV, Networking and Linux. Currently, we are focusing on Linux (RHEL, CentOS, Ubuntu), OpenStack, OpenDaylight, Docker and Linux Containers, Kubernetes, Apache Mesos.&lt;/p&gt;
@@ -299,10 +299,10 @@
     
     <item>
       <title>Events</title>
-      <link>/aseurl=www.bigambitions.org/events/</link>
+      <link>/events/</link>
       <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/events/</guid>
+      <guid>/events/</guid>
       <description>
 
 &lt;p&gt;Big Ambitions Foundation events include meetups and training sessions being organised by Big Ambitions team with the help of sponsors to spread and share the knowledge about the open source Cloud, SDN / NFV, Linux, Containers and Networking technologies.&lt;/p&gt;
@@ -325,11 +325,11 @@
 &lt;li&gt;&lt;a href=&#34;http://events.linuxfoundation.org/events/opendaylight-summit&#34;&gt;OpenDaylight Summit&lt;/a&gt; - 27 Sept 2016 - Seattle&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://events.linuxfoundation.org/events/linuxcon-europe&#34;&gt;LinuxCon Europe&lt;/a&gt; - 4 Oct 2016 - Berlin&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://events.linuxfoundation.org/events/containercon-europe&#34;&gt;ContainerCon Europe&lt;/a&gt; - 4 Oct 2016 - Berlin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/events&#34;&gt;OSCON&lt;/a&gt; - 17 Oct 2016 - London&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/events&#34;&gt;OSCON&lt;/a&gt; - 17 Oct 2016 - London&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.openstack.org/summit/barcelona-2016/&#34;&gt;OpenStack Summit&lt;/a&gt; - 24 Oct 2016 - Barcelona, Spain&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/events&#34;&gt;MesosCon&lt;/a&gt; - 2016&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/events&#34;&gt;Dockercon Europe&lt;/a&gt; - 2016&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/events&#34;&gt;Tectonic Summit&lt;/a&gt; - 2016&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/events&#34;&gt;MesosCon&lt;/a&gt; - 2016&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/events&#34;&gt;Dockercon Europe&lt;/a&gt; - 2016&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/events&#34;&gt;Tectonic Summit&lt;/a&gt; - 2016&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
@@ -351,10 +351,10 @@
     
     <item>
       <title>Contact Us</title>
-      <link>/aseurl=www.bigambitions.org/bigambitions/contact/</link>
+      <link>/bigambitions/contact/</link>
       <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/bigambitions/contact/</guid>
+      <guid>/bigambitions/contact/</guid>
       <description>
 
 &lt;p&gt;Incase of any suggestions, feedback, enquiry or sponsorship, Please drop us an email to info (at) bigambitions (dot) org.&lt;/p&gt;
@@ -382,10 +382,10 @@
     
     <item>
       <title>Home</title>
-      <link>/aseurl=www.bigambitions.org/home/</link>
+      <link>/home/</link>
       <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/home/</guid>
+      <guid>/home/</guid>
       <description>
 
 &lt;!--
@@ -396,16 +396,16 @@
 
 &lt;p&gt;&lt;br/&gt;
 &lt;br/&gt;
-&lt;img src=&#34;aseurl=www.bigambitions.org/images/5.jpg&#34; alt=&#34;Nitin Agarwal&#34; style=&#34;float:center;width:560px;height:360px;&#34;&gt;
+&lt;img src=&#34;/images/5.jpg&#34; alt=&#34;Nitin Agarwal&#34; style=&#34;float:center;width:560px;height:360px;&#34;&gt;
 &lt;br/&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;about-big-ambitions-foundation:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/&#34;&gt;About Big Ambitions Foundation&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;about-big-ambitions-foundation:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;/&#34;&gt;About Big Ambitions Foundation&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Big Ambitions Foundation feature news, updates, research and anaylsis as well as provides a common platform to share knowledge and latest updates about Open source Cloud, SDN/NFV, Linux, Containers and Networking technologies. The members of the Foundation analyse and perform data research to help the enterprises, startups and the businesses worldwide choose the right stack of open source technologies.&lt;/p&gt;
 
 &lt;p&gt;Big Ambitions Foundation helps talented and passionate newcomers build their career in Open source, Linux, Cloud, SDN / NFV, Networking by providing comprehensive, practical and hands-on training to women and students at an affordable fees. The goal of the Big Ambitions Foundation is to bridge the gap between open source and women in technology.&lt;/p&gt;
 
-&lt;h2 id=&#34;our-vision:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/&#34;&gt;Our Vision&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;our-vision:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;/&#34;&gt;Our Vision&lt;/a&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Provide a common platform to share knowledge and updates on the open source technologies.&lt;/li&gt;
@@ -415,7 +415,7 @@
 &lt;li&gt;Help the enterprises, startups and the businesses worldwide choose the right stack of open source technologies.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;our-mission:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/&#34;&gt;Our Mission&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;our-mission:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;/&#34;&gt;Our Mission&lt;/a&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Featuring tutorials on our focused open source technologies.&lt;/li&gt;
@@ -423,21 +423,21 @@
 &lt;li&gt;Providing comprehensive, practical and hands-on training on our focused open source rechnologies to women and students at low cost.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;founding-members:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/&#34;&gt;Founding Members&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;founding-members:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;/&#34;&gt;Founding Members&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;We are looking for Founding Members / Sponsors to join our nonprofit organisation and help us in achieving our mission. If your company is interested in becoming a Founding Member/ Sponsor at Big Ambitions Foundation, Please send us an email to info (at) bigambitions (dot) org.&lt;/p&gt;
 
-&lt;h2 id=&#34;advisory-board-at-big-ambitions:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/&#34;&gt;Advisory Board at Big Ambitions&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;advisory-board-at-big-ambitions:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;/&#34;&gt;Advisory Board at Big Ambitions&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Big Ambitions Foundation would be governed on the policies decided by our Board of Advisors council. Our Board of Advisors includes one member from each of the founding members / sponsors, and respected experienced persons from the open source community.&lt;/p&gt;
 
-&lt;h2 id=&#34;focused-technologies:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/&#34;&gt;Focused technologies&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;focused-technologies:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;/&#34;&gt;Focused technologies&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Big Ambitions would be currently focusing on Open Soure Cloud, SDN / NFV and Networking technologies mainly Linux systems (Ubuntu, RHEL, CentOS), OpenStack, OpenDaylight, Docker and Linux containers, Kubernetes, Apache Mesos, OpenShift, Vagrant, Puppet.&lt;/p&gt;
 
 &lt;p&gt;More technologies to be added soon in future!&lt;/p&gt;
 
-&lt;h2 id=&#34;benefit-to-the-open-source-world:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/&#34;&gt;Benefit to the Open Source world&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;benefit-to-the-open-source-world:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;/&#34;&gt;Benefit to the Open Source world&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;In our training sessions, we would be encouraging the participants to contribute upstream and get involved with the larger community. This would help the open source technologies to have more contributions and in effect will increase the number of people with open source experience in the market for the companies to hire open source talent.&lt;/p&gt;
 
@@ -445,15 +445,15 @@
 
 &lt;p&gt;We would also be conducting free meetups worldwide to share knowledge and latest updates about the Open source technologies which would help the people and newbies in the open source world to enhance their skills as well as learn new skills.&lt;/p&gt;
 
-&lt;h2 id=&#34;benefit-to-the-users:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/&#34;&gt;Benefit to the Users&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;benefit-to-the-users:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;/&#34;&gt;Benefit to the Users&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Passionate Women and Students would be having the opportunity to get hands-on training on the Open source technologies at no cost and hence can make their career in Cloud Computing, SDN / NFV, Linux and Networking.&lt;/p&gt;
 
-&lt;h2 id=&#34;benefit-to-the-startups-and-enterprises:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/&#34;&gt;Benefit to the Startups and Enterprises&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;benefit-to-the-startups-and-enterprises:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;/&#34;&gt;Benefit to the Startups and Enterprises&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Our team would be performing data research and analysis of the open source technologies, and will publish it on our website as well as via our social media presence which would help the startups, enterprises and the businesses worldwide to choose the right stack of open source technologies for building their product.&lt;/p&gt;
 
-&lt;h2 id=&#34;contact-us:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;aseurl=www.bigambitions.org/&#34;&gt;Contact Us&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;contact-us:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;/&#34;&gt;Contact Us&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;If you would like to contact us for any suggestion, feedback, enquiry or sponsorship, Please feel free to send us an email to info (at) bigambitions (dot) org.&lt;/p&gt;
 
@@ -490,10 +490,10 @@
     
     <item>
       <title>Privacy Policy</title>
-      <link>/aseurl=www.bigambitions.org/bigambitions/privacy/</link>
+      <link>/bigambitions/privacy/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/bigambitions/privacy/</guid>
+      <guid>/bigambitions/privacy/</guid>
       <description>
 
 &lt;p&gt;Effective Date: January 4, 2016&lt;/p&gt;
@@ -650,10 +650,10 @@
     
     <item>
       <title>Terms of Use</title>
-      <link>/aseurl=www.bigambitions.org/bigambitions/terms_of_use/</link>
+      <link>/bigambitions/terms_of_use/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/aseurl=www.bigambitions.org/bigambitions/terms_of_use/</guid>
+      <guid>/bigambitions/terms_of_use/</guid>
       <description>
 
 &lt;p&gt;January 4th, 2015&lt;/p&gt;
