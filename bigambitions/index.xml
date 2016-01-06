@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Big Ambitions Foundation</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Big Ambitions Foundation</description>
+    <title>Bigambitions on Big Ambitions Foundation</title>
+    <link>http://localhost:1313/bigambitions/</link>
+    <description>Recent content in Bigambitions on Big Ambitions Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/bigambitions/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Us</title>
@@ -55,87 +55,6 @@
     </item>
     
     <item>
-      <title>Focused Open Source Technologies</title>
-      <link>http://localhost:1313/technology/</link>
-      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/technology/</guid>
-      <description>
-
-&lt;p&gt;Big Ambitions Foundation is currently focusing on the Open source Cloud Computing, SDN / NFV, Linux, Containers and Networking technologies namely Linux systems (Ubuntu, RHEL, CentOS), OpenStack, OpenDaylight, Docker and Linux containers, Kubernetes, Apache Mesos, OpenShift, Vagrant, Puppet.&lt;/p&gt;
-
-&lt;h2 id=&#34;become-an-active-technical-contributor-atc-technology:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;&lt;a href=&#34;http://localhost:1313/technology&#34;&gt;Become an Active Technical Contributor (ATC)&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Please see &lt;a href=&#34;https://github.com/bigambitions/technology-articles/blob/master/contributing.md&#34;&gt;CONTRIBUTING&lt;/a&gt; for details.&lt;/p&gt;
-
-&lt;h1 id=&#34;technology-articles-technology:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;&lt;a href=&#34;http://localhost:1313/technology&#34;&gt;Technology Articles&lt;/a&gt;&lt;/h1&gt;
-
-&lt;h2 id=&#34;linux-rhel-centos-fedora-ubuntu:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;Linux (RHEL, CentOS, Fedora, Ubuntu)&lt;/h2&gt;
-
-&lt;h2 id=&#34;openstack:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;OpenStack&lt;/h2&gt;
-
-&lt;h2 id=&#34;opendaylight:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;OpenDaylight&lt;/h2&gt;
-
-&lt;h2 id=&#34;openshift:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;OpenShift&lt;/h2&gt;
-
-&lt;h2 id=&#34;docker:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;Docker&lt;/h2&gt;
-
-&lt;h2 id=&#34;kubernetes:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;Kubernetes&lt;/h2&gt;
-
-&lt;h2 id=&#34;apache-mesos:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;Apache Mesos&lt;/h2&gt;
-
-&lt;h2 id=&#34;vagrant:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;Vagrant&lt;/h2&gt;
-
-&lt;h2 id=&#34;puppet:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;Puppet&lt;/h2&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;share-this-page-via:b554fa9a3cca1a24d5ec56007898e15b&#34;&gt;Share this Page via:&lt;/h2&gt;
-
-&lt;p&gt;&lt;div class=&#34;a2a_kit a2a_kit_size_32 a2a_default_style&#34;&gt;
-&lt;a class=&#34;a2a_button_twitter&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_facebook&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_linkedin&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_google_plus&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_email&#34;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;//static.addtoany.com/menu/page.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://localhost:1313/research/</link>
-      <pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/research/</guid>
-      <description>
-
-&lt;p&gt;We would be publishing research and analysis articles on the focused open source technologies to help the enterprises, startups and the businesses worldwide choose the right stack of open source technologies.&lt;/p&gt;
-
-&lt;p&gt;Please see &lt;a href=&#34;https://github.com/bigambitions/research-articles/blob/master/contributing.md&#34;&gt;CONTRIBUTING&lt;/a&gt; for details.&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;share-this-page-via:42f623b3bad309d5d6619d450af47d40&#34;&gt;Share this Page via:&lt;/h2&gt;
-
-&lt;p&gt;&lt;div class=&#34;a2a_kit a2a_kit_size_32 a2a_default_style&#34;&gt;
-&lt;a class=&#34;a2a_button_twitter&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_facebook&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_linkedin&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_google_plus&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_email&#34;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;//static.addtoany.com/menu/page.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Advisory Board</title>
       <link>http://localhost:1313/bigambitions/board_of_advisors/</link>
       <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
@@ -156,43 +75,6 @@
 &lt;br/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;share-this-page-via:d542307924d2d5ceed427da0d877c2ec&#34;&gt;Share this Page via:&lt;/h2&gt;
-
-&lt;p&gt;&lt;div class=&#34;a2a_kit a2a_kit_size_32 a2a_default_style&#34;&gt;
-&lt;a class=&#34;a2a_button_twitter&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_facebook&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_linkedin&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_google_plus&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_email&#34;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;//static.addtoany.com/menu/page.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spotlight</title>
-      <link>http://localhost:1313/spotlight/</link>
-      <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/spotlight/</guid>
-      <description>
-
-&lt;p&gt;Our Spotlight feature includes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Interviews with the Open source developers&lt;/li&gt;
-&lt;li&gt;New features and tools launched at the Open source conferences / summits&lt;/li&gt;
-&lt;li&gt;Interviews with the passionate women in Open source technology&lt;/li&gt;
-&lt;li&gt;Interviews with the startups following our Research / Analysis articles&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;share-this-page-via:03c90ce791d09fdc0298b10e7ae28575&#34;&gt;Share this Page via:&lt;/h2&gt;
 
 &lt;p&gt;&lt;div class=&#34;a2a_kit a2a_kit_size_32 a2a_default_style&#34;&gt;
 &lt;a class=&#34;a2a_button_twitter&#34;&gt;&lt;/a&gt;
@@ -266,90 +148,6 @@
     </item>
     
     <item>
-      <title>Trainings</title>
-      <link>http://localhost:1313/training/</link>
-      <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/training/</guid>
-      <description>
-
-&lt;p&gt;Big Ambitions Foundation offers training to Women, Students and IT Professionals at an affordable fees to help them build their career in Cloud Computing, SDN / NFV, Networking and Linux. Currently, we are focusing on Linux (RHEL, CentOS, Ubuntu), OpenStack, OpenDaylight, Docker and Linux Containers, Kubernetes, Apache Mesos.&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;share-this-page-via:6493d41e298135faa05bc270a80fc0e4&#34;&gt;Share this Page via:&lt;/h2&gt;
-
-&lt;p&gt;&lt;div class=&#34;a2a_kit a2a_kit_size_32 a2a_default_style&#34;&gt;
-&lt;a class=&#34;a2a_button_twitter&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_facebook&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_linkedin&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_google_plus&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_email&#34;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;//static.addtoany.com/menu/page.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>http://localhost:1313/events/</link>
-      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/</guid>
-      <description>
-
-&lt;p&gt;Big Ambitions Foundation events include meetups and training sessions being organised by Big Ambitions team with the help of sponsors to spread and share the knowledge about the open source Cloud, SDN / NFV, Linux, Containers and Networking technologies.&lt;/p&gt;
-
-&lt;h1 id=&#34;training-courses:cfe6bfb85feb4e5f1baa942dee8755c2&#34;&gt;Training Courses&lt;/h1&gt;
-
-&lt;p&gt;Updated schedule will be mentioned soon!&lt;/p&gt;
-
-&lt;h1 id=&#34;conferences-summits:cfe6bfb85feb4e5f1baa942dee8755c2&#34;&gt;Conferences / Summits&lt;/h1&gt;
-
-&lt;p&gt;Big Ambitions Foundation is planning to have its presence to the following Summits / Conferences:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openstack.org/summit/austin-2016/&#34;&gt;OpenStack Summit&lt;/a&gt; - 24 April 2016 - Austin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://conferences.oreilly.com/oscon/open-source-us&#34;&gt;OSCON&lt;/a&gt; - 16 May 2016 - Austin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://2016.dockercon.com/&#34;&gt;Dockercon US&lt;/a&gt; - 20 June 2016 - Seattle&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.redhat.com/summit/&#34;&gt;Redhat Summit&lt;/a&gt; - 28 June 2016 - San Francisco&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://events.linuxfoundation.org/events/linuxcon-north-america&#34;&gt;LinuxCon North America&lt;/a&gt; - 22 Aug 2016 - Toronto&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://events.linuxfoundation.org/events/containercon&#34;&gt;ContainerCon North America&lt;/a&gt; - 22 Aug 2016 - Toronto&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://events.linuxfoundation.org/events/opendaylight-summit&#34;&gt;OpenDaylight Summit&lt;/a&gt; - 27 Sept 2016 - Seattle&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://events.linuxfoundation.org/events/linuxcon-europe&#34;&gt;LinuxCon Europe&lt;/a&gt; - 4 Oct 2016 - Berlin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://events.linuxfoundation.org/events/containercon-europe&#34;&gt;ContainerCon Europe&lt;/a&gt; - 4 Oct 2016 - Berlin&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/events&#34;&gt;OSCON&lt;/a&gt; - 17 Oct 2016 - London&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openstack.org/summit/barcelona-2016/&#34;&gt;OpenStack Summit&lt;/a&gt; - 24 Oct 2016 - Barcelona, Spain&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/events&#34;&gt;MesosCon&lt;/a&gt; - 2016&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/events&#34;&gt;Dockercon Europe&lt;/a&gt; - 2016&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/events&#34;&gt;Tectonic Summit&lt;/a&gt; - 2016&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;share-this-page-via:cfe6bfb85feb4e5f1baa942dee8755c2&#34;&gt;Share this Page via:&lt;/h2&gt;
-
-&lt;p&gt;&lt;div class=&#34;a2a_kit a2a_kit_size_32 a2a_default_style&#34;&gt;
-&lt;a class=&#34;a2a_button_twitter&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_facebook&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_linkedin&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_google_plus&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_email&#34;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;//static.addtoany.com/menu/page.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contact Us</title>
       <link>http://localhost:1313/bigambitions/contact/</link>
       <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
@@ -368,114 +166,6 @@
 &lt;br/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;share-this-page-via:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Share this Page via:&lt;/h2&gt;
-
-&lt;p&gt;&lt;div class=&#34;a2a_kit a2a_kit_size_32 a2a_default_style&#34;&gt;
-&lt;a class=&#34;a2a_button_twitter&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_facebook&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_linkedin&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_google_plus&#34;&gt;&lt;/a&gt;
-&lt;a class=&#34;a2a_button_email&#34;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;//static.addtoany.com/menu/page.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <link>http://localhost:1313/home/</link>
-      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/home/</guid>
-      <description>
-
-&lt;!--
-&lt;div style=&#34;margin:auto;text-align:center;&#34;&gt;
-&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/46545496&#34; width=&#34;590&#34; height=&#34;450&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt;&lt;br&gt;
-&lt;/div&gt;
---&gt;
-
-&lt;p&gt;&lt;br/&gt;
-&lt;br/&gt;
-&lt;img src=&#34;http://localhost:1313/images/5.jpg&#34; alt=&#34;Nitin Agarwal&#34; style=&#34;float:center;width:560px;height:360px;&#34;&gt;
-&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;about-big-ambitions-foundation:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;About Big Ambitions Foundation&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Big Ambitions Foundation feature news, updates, research and anaylsis as well as provides a common platform to share knowledge and latest updates about Open source Cloud, SDN/NFV, Linux, Containers and Networking technologies. The members of the Foundation analyse and perform data research to help the enterprises, startups and the businesses worldwide choose the right stack of open source technologies.&lt;/p&gt;
-
-&lt;p&gt;Big Ambitions Foundation helps talented and passionate newcomers build their career in Open source, Linux, Cloud, SDN / NFV, Networking by providing comprehensive, practical and hands-on training to women and students at an affordable fees. The goal of the Big Ambitions Foundation is to bridge the gap between open source and women in technology.&lt;/p&gt;
-
-&lt;h2 id=&#34;our-vision:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Our Vision&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Provide a common platform to share knowledge and updates on the open source technologies.&lt;/li&gt;
-&lt;li&gt;Help talented and passionate newcomers build their career in Open source, Linux, Cloud, SDN / NFV and Networking.&lt;/li&gt;
-&lt;li&gt;Bridge the gap between open source and women in technology.&lt;/li&gt;
-&lt;li&gt;Encourage students and women in technology to get involved in open source community and contribute upstream.&lt;/li&gt;
-&lt;li&gt;Help the enterprises, startups and the businesses worldwide choose the right stack of open source technologies.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;our-mission:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Our Mission&lt;/a&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Featuring tutorials on our focused open source technologies.&lt;/li&gt;
-&lt;li&gt;Analysing and performing data research to show how these new open source technologies would affect the enterprises, startups and the businesses worldwide.&lt;/li&gt;
-&lt;li&gt;Providing comprehensive, practical and hands-on training on our focused open source rechnologies to women and students at low cost.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;founding-members:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Founding Members&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;We are looking for Founding Members / Sponsors to join our nonprofit organisation and help us in achieving our mission. If your company is interested in becoming a Founding Member/ Sponsor at Big Ambitions Foundation, Please send us an email to info (at) bigambitions (dot) org.&lt;/p&gt;
-
-&lt;h2 id=&#34;advisory-board-at-big-ambitions:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Advisory Board at Big Ambitions&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Big Ambitions Foundation would be governed on the policies decided by our Board of Advisors council. Our Board of Advisors includes one member from each of the founding members / sponsors, and respected experienced persons from the open source community.&lt;/p&gt;
-
-&lt;h2 id=&#34;focused-technologies:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Focused technologies&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Big Ambitions would be currently focusing on Open Soure Cloud, SDN / NFV and Networking technologies mainly Linux systems (Ubuntu, RHEL, CentOS), OpenStack, OpenDaylight, Docker and Linux containers, Kubernetes, Apache Mesos, OpenShift, Vagrant, Puppet.&lt;/p&gt;
-
-&lt;p&gt;More technologies to be added soon in future!&lt;/p&gt;
-
-&lt;h2 id=&#34;benefit-to-the-open-source-world:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Benefit to the Open Source world&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;In our training sessions, we would be encouraging the participants to contribute upstream and get involved with the larger community. This would help the open source technologies to have more contributions and in effect will increase the number of people with open source experience in the market for the companies to hire open source talent.&lt;/p&gt;
-
-&lt;p&gt;Also, our foundation would be working to bridge the gap between Open source and women by offering training to women at low cost.&lt;/p&gt;
-
-&lt;p&gt;We would also be conducting free meetups worldwide to share knowledge and latest updates about the Open source technologies which would help the people and newbies in the open source world to enhance their skills as well as learn new skills.&lt;/p&gt;
-
-&lt;h2 id=&#34;benefit-to-the-users:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Benefit to the Users&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Passionate Women and Students would be having the opportunity to get hands-on training on the Open source technologies at no cost and hence can make their career in Cloud Computing, SDN / NFV, Linux and Networking.&lt;/p&gt;
-
-&lt;h2 id=&#34;benefit-to-the-startups-and-enterprises:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Benefit to the Startups and Enterprises&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Our team would be performing data research and analysis of the open source technologies, and will publish it on our website as well as via our social media presence which would help the startups, enterprises and the businesses worldwide to choose the right stack of open source technologies for building their product.&lt;/p&gt;
-
-&lt;h2 id=&#34;contact-us:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Contact Us&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;If you would like to contact us for any suggestion, feedback, enquiry or sponsorship, Please feel free to send us an email to info (at) bigambitions (dot) org.&lt;/p&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/slim-081711.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-    #mc_embed_signup{background:#1E90FF; clear:right; font:18px Helvetica,Arial,sans-serif;  width:700px;}
-&lt;/style&gt;&lt;/p&gt;
-
-&lt;div id=&#34;mc_embed_signup&#34;&gt;
-&lt;form action=&#34;//bigambitions.us12.list-manage.com/subscribe/post?u=efeb8b0f151453b6bb77cf67b&amp;amp;id=079580c475&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate&#34; target=&#34;_blank&#34; novalidate&gt;
-    &lt;div id=&#34;mc_embed_signup_scroll&#34;&gt;
-    &lt;label for=&#34;mce-EMAIL&#34;&gt;Subscribe to our Newsletter&lt;/label&gt;
-    &lt;input type=&#34;email&#34; value=&#34;&#34; name=&#34;EMAIL&#34; class=&#34;email&#34; id=&#34;mce-EMAIL&#34; placeholder=&#34;email address&#34; required&gt;
-    &lt;div style=&#34;position: absolute; left: -5000px;&#34; aria-hidden=&#34;true&#34;&gt;&lt;input type=&#34;text&#34; name=&#34;b_efeb8b0f151453b6bb77cf67b_079580c475&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;&lt;/div&gt;
-    &lt;div class=&#34;clear&#34;&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; name=&#34;subscribe&#34; id=&#34;mc-embedded-subscribe&#34; class=&#34;button&#34;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/form&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;share-this-page-via:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;Share this Page via:&lt;/h2&gt;
 
 &lt;p&gt;&lt;div class=&#34;a2a_kit a2a_kit_size_32 a2a_default_style&#34;&gt;
 &lt;a class=&#34;a2a_button_twitter&#34;&gt;&lt;/a&gt;
